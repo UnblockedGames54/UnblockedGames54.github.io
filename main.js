@@ -514,10 +514,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        '/background.png',  // Default background image
-        '#111E2C',          // Default primary color
-        '#58AAFC',          // Default secondary color
-        '1280'              // Default background resolution
+        'https://www.shutterstock.com/image-vector/rounded-squares-tilted-cool-seamless-600nw-2421570595.jpg',  // Default background image
+        '#000000',          // Default primary color
+        '#CA5D5D',          // Default secondary color
+        '1600'              // Default background resolution
     ].join('\n');
 
     // Store the default values in the "customisation" key in localStorage
