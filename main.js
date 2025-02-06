@@ -514,7 +514,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        'https://www.shutterstock.com/image-vector/rounded-squares-tilted-cool-seamless-600nw-2421570595.jpg',  // Default background image
+        'Background.png',  // Default background image
         '#000000',          // Default primary color
         '#CA5D5D',          // Default secondary color
         '1600'              // Default background resolution
